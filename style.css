@@ -1,0 +1,27 @@
+<!DOCTYPE html> 
+<html> 
+<head> 
+<title>Hello World</title> 
+<link rel="stylesheet" href="style.css"> 
+</head> 
+<body> 
+<h1 class="reverse">Hello World</h1> 
+<p> 
+Here is a paragraph that contains a few sentences of content. </p> 
+</body> 
+</html> 
+CSS 
+body { 
+background-color: gray; 
+color: black; 
+font-family: Helvetica; 
+font-size: 14px; 
+} 
+.reverse { 
+background-color: rgb(35, 136, 128) !important; 
+color: rgb(189, 161, 161); 
+} 
+p { 
+padding: 20px; 
+}
+
